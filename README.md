@@ -28,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban001js&show_icons=true&locale=en&layout=compact" alt="anirban001js" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban001js&show_icons=true&locale=en" alt="anirban001js" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban001js&" alt="anirban001js" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban001js&" /></p>
 
