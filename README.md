@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anirban Debnath</h1>
 <h3 align="center">A passionate Android Developer , UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban001js&label=Profile%20views&color=0e75b6&style=flat" alt="anirban001js" /> </p>
+<p align="center">
+    <a href="https://github.com/Anirban001js"><img src="forkit.gif "/></a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban001js&label=Profile%20views&color=0e75b6&style=flat" alt="anirban001js" /> </p>
 
 - 👨🏻‍🎓 Currently persuing my B.Tech in ECE
 
