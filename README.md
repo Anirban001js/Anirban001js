@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirban Debnath</h1>
 <h3 align="center">A passionate Android Developer , UI/UX Designer</h3>
 
-<p align="center">
-    <a href="https://github.com/Anirban001js"><img src="forkit.gif "/></a> 
-</p>
+<p align="center"><a href="https://github.com/Anirban001js"><img src="android.gif" height="300px"/></a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban001js&label=Profile%20views&color=0e75b6&style=flat" alt="anirban001js" /> </p>
 
@@ -46,4 +45,8 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban001js&" /></p>
+<div>
+    <p align="center"><a href="https://github.com/Anirban001js"><img src="forkit.gif"/></a></p>
+    <h3 align="center"><b>Thank you for visiting my profile</b></h3>
+</div>
 
